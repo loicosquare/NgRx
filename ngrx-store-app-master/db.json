@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "name": "John Doe",
+      "phone": "910928392098",
+      "address": "123 Sun Street",
+      "membership": "Platinum",
+      "id": 1
+    },
+    {
+      "name": "Mary Johnson",
+      "phone": "808937482734",
+      "address": "893 Main Voulevard",
+      "membership": "Pro",
+      "id": 2
+    },
+    {
+      "name": "FONKOUO SANOU TEMENA LOIC",
+      "phone": "0745916745",
+      "address": "22 Rue des Brandons",
+      "membership": "Platinum",
+      "id": 3
+    },
+    {
+      "name": "ROSINE MEMBOUO SANOU",
+      "phone": "+237699310731",
+      "address": "Yaoundé, entrée symbock",
+      "membership": "Pro",
+      "id": 4
+    }
+  ]
+}
